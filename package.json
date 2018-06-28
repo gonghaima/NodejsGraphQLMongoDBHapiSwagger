@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "hapi": "^17.5.2",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^3.0.10",
+    "mongoose": "^5.1.7",
+    "nodemon": "^1.17.5"
+  }
+}
